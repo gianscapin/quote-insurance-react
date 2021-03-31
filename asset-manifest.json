@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quote-insurance-react/static/css/main.78248dca.chunk.css",
+    "main.js": "/quote-insurance-react/static/js/main.5e4a43f2.chunk.js",
+    "main.js.map": "/quote-insurance-react/static/js/main.5e4a43f2.chunk.js.map",
+    "runtime-main.js": "/quote-insurance-react/static/js/runtime-main.e46e94a7.js",
+    "runtime-main.js.map": "/quote-insurance-react/static/js/runtime-main.e46e94a7.js.map",
+    "static/js/2.01ab6d7a.chunk.js": "/quote-insurance-react/static/js/2.01ab6d7a.chunk.js",
+    "static/js/2.01ab6d7a.chunk.js.map": "/quote-insurance-react/static/js/2.01ab6d7a.chunk.js.map",
+    "static/js/3.2733afc9.chunk.js": "/quote-insurance-react/static/js/3.2733afc9.chunk.js",
+    "static/js/3.2733afc9.chunk.js.map": "/quote-insurance-react/static/js/3.2733afc9.chunk.js.map",
+    "index.html": "/quote-insurance-react/index.html",
+    "static/css/main.78248dca.chunk.css.map": "/quote-insurance-react/static/css/main.78248dca.chunk.css.map",
+    "static/js/2.01ab6d7a.chunk.js.LICENSE.txt": "/quote-insurance-react/static/js/2.01ab6d7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e46e94a7.js",
+    "static/js/2.01ab6d7a.chunk.js",
+    "static/css/main.78248dca.chunk.css",
+    "static/js/main.5e4a43f2.chunk.js"
+  ]
+}
